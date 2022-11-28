@@ -1,5 +1,5 @@
 # DMS Software Architect Handbook
-TODO
+This handbook defines the responsibilities associated with the DMS Software Architect role and the current methods used to meet the responsibilities.
 
 # Responsibilities
 ## Architecture and Design
@@ -15,13 +15,20 @@ TODO
 
 # Methods
 ## Architecture and Design
-The general approach involves analyzing business requirements to extract and define the architectural characteristics (“-ilities”), selecting architecture patterns and styles which fit the problem domain, and identifying or creating the building blocks of the system.
+The general approach for addressing architecture and design responsibilities involves:
+* analyzing business requirements to extract and define the most significant architectural requirements (“-ilities”)(ASRs) 
+* selecting architecture patterns and styles which fit the problem domain and address ASRs
+* creating the building blocks of the system 
+
+This approach happens in collaboration with the product stakeholders and the development team. Using the general approach, the DMS software architect supports the development team in generating the detailed design and implementating the product.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/whiteheaddmark/DMS-Software-Architect-Handbook/blob/master/images/ArchitecturalThinking.png?raw=true">
 </p>
+<div align="center">Figure 1 Collaboration model (taken from "Fundamentals of Software Architecture", Ford et al.).</div>
+
+## Technical Management
+A technology inventory is used to organize and manage languages, frameworks, tools, platforms, and techniques across DMS. All items in the inventory are further organized by their adoption lifecycle state. Details about the inventory can be found [here](https://github.com/whiteheaddmark/Technology-Inventory).
 
 ## Technical Development
-## Technical Management
-
-
+TODO
