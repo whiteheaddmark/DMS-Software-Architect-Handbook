@@ -15,6 +15,10 @@ This handbook defines the responsibilities associated with the DMS Software Arch
 
 # Methods
 ## Architecture and Design
+The reasons we want to articulate an architecture:
+* so that everyone has a common understanding that we can use to reason about the system
+* so we can make statements about couping and cohesion
+
 The general approach for addressing architecture and design responsibilities involves:
 * analyzing business requirements to extract and define the most significant architectural requirements (“-ilities”)(ASRs) 
 * selecting architecture patterns and styles which fit the problem domain and address ASRs
