@@ -8,10 +8,10 @@ This handbook defines the responsibilities associated with the DMS Software Arch
 * Recognize and/or define boundaries and interfaces between components to create working applications and a maintainable development path.
 * Work across teams to advance a unified framework for the user-facing tools.
 * Ensure critical documentation is delivered.
-## Technical Development
-* Prototype solutions for new applications and new approaches to existing applications.
 ## Technical Management
 * With DMS management, help define consistent standards for technologies across the observatory, balancing re-use of tools and software across the observatory with strategic exploration of new tools.
+## Technical Development
+* Prototype solutions for new applications and new approaches to existing applications.
 
 # Methods
 ## Architecture and Design
