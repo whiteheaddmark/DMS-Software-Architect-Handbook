@@ -20,7 +20,7 @@ The general approach for addressing architecture and design responsibilities inv
 * selecting architecture patterns and styles which fit the problem domain and address ASRs
 * creating the building blocks of the system 
 
-This approach happens in collaboration with the product stakeholders and the development team. Using the general approach, the DMS software architect supports the development team in generating the detailed design and implementating the product.
+This approach happens in collaboration with the product stakeholders and the development team. Using the general approach, the DMS software architect supports the development team in generating the detailed design and implementing the product.
 
 <p align="center">
   <img src="https://github.com/whiteheaddmark/DMS-Software-Architect-Handbook/blob/master/images/ArchitecturalThinking.png?raw=true">
